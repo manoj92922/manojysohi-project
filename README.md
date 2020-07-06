@@ -1,2 +1,2 @@
-# manojysohi-project
-maven-project
+# manoj-maven-project
+sample project2
